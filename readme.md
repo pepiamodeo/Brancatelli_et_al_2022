@@ -8,7 +8,7 @@ Authors:
 * Amodeo, M.R. 
 * Zalba, S.M. 
 
-This repository is preserved by Zenodo at <!-- [![DOI](https://.svg)](https://zenodo.org/)-->
+This repository is preserved by Zenodo at [![DOI](https://zenodo.org/badge/526216173.svg)](https://zenodo.org/badge/latestdoi/526216173)
 
 ### Project description
 
