@@ -1,5 +1,5 @@
 
-# Data and R scripts for the article Brancatelli *et al* 2022. Demographic model for Aleppo pine invading Argentinean grasslands (DOI)
+# Data and R scripts for the article Brancatelli *et al* 2022. Demographic Model for Aleppo Pine Invading Argentinean Grasslands
 
 Authors: 
 
@@ -23,8 +23,8 @@ This R project consists in the datasets and scripts used for the analyses and pl
 
 * Folder */R*. R scripts containing custom functions used for data loading and matrix constructions. They are called from the main scripts in the analyses folder (relative path indicated).
 
-* Folder */analyses*. R scripts for conucting the main analyses in the article. They are supposed to be run within the Rproject environment (relative path indicated).
+* Folder */analyses*. R scripts for conducting the main analyses in the article. They are supposed to be run within the Rproject environment (relative path indicated).
 
 * Folder */output*. Figures and table in pdf format.
 
-For a full description of the study, data, experimental design, analyses and conclusions please see the published article Brancatelli *et al* 2022 in DOI.
+For a full description of the study, data, experimental design, analyses and conclusions please see the published article Brancatelli *et al* 2022 in Ecological Modelling.
