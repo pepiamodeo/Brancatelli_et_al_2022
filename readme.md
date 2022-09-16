@@ -1,5 +1,6 @@
 
 # Data and R scripts for the article Brancatelli *et al* 2022. Demographic Model for Aleppo Pine Invading Argentinean Grasslands
+## Journal *Ecological Modelling*
 
 Authors: 
 
@@ -7,8 +8,7 @@ Authors:
 * Amodeo, M.R. 
 * Zalba, S.M. 
 
-This repository will be preserved by Zenodo at the moment of publication
-<!-- [![DOI](https://.svg)](https://zenodo.org/)-->
+This repository is preserved by Zenodo at <!-- [![DOI](https://.svg)](https://zenodo.org/)-->
 
 ### Project description
 
